@@ -1,0 +1,33 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+
+  padding: 30px;
+}
+
+button {
+  padding: 30px 10px 30px 10px;
+
+  min-width: 190px;
+  font: inherit;
+  color: #ffffff;
+  border-radius: 50px;
+}
+
+button:disabled {
+  background-color: #a7adba;
+}
+
+.start-btn {
+  background-color: greenyellow;
+}
+
+.stop-btn {
+  background-color: red;
+}

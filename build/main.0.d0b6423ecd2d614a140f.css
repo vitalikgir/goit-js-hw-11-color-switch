@@ -1,0 +1,1 @@
+*,:after,:before{box-sizing:border-box}body{margin:0;text-align:center;padding:30px}button{padding:30px 10px;min-width:190px;font:inherit;color:#fff;border-radius:50px}button:disabled{background-color:#a7adba}.start-btn{background-color:#adff2f}.stop-btn{background-color:red}
